@@ -1,0 +1,5 @@
+<map id="c_OutputCommon::ClearBuffer" name="c_OutputCommon::ClearBuffer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,45,203,70"/>
+<area shape="rect" id="node2" href="$classc___output_common.html#a83f1ea04a95de1af5ad0e5a5130bdcad" title="Get the address of the buffer into which the E1.31 handler will stuff data." alt="" coords="251,5,439,45"/>
+<area shape="rect" id="node3" href="$classc___output_common.html#ac7853ec4ed8c3a173cfd3110b0838585" title="Get the address of the buffer into which the E1.31 handler will stuff data." alt="" coords="251,69,439,109"/>
+</map>

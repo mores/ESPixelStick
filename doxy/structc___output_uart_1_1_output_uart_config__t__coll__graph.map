@@ -1,0 +1,8 @@
+<map id="c_OutputUart::OutputUartConfig_t" name="c_OutputUart::OutputUartConfig_t">
+<area shape="rect" id="node1" title=" " alt="" coords="93,299,263,339"/>
+<area shape="rect" id="node2" href="$classc___output_pixel.html" title=" " alt="" coords="39,203,141,229"/>
+<area shape="rect" id="node3" href="$classc___output_common.html" title=" " alt="" coords="5,108,132,133"/>
+<area shape="rect" id="node4" href="$unionc___output_pixel_1_1_color_offsets__s.html" title=" " alt="" coords="157,108,351,133"/>
+<area shape="rect" id="node5" href="$structc___output_pixel_1_1_color_offsets__s_1_1offsets.html" title=" " alt="" coords="163,5,345,45"/>
+<area shape="rect" id="node6" href="$structc___output_uart_1_1_convert_intensity_to_uart_data_stream_entry__t.html" title=" " alt="" coords="166,196,366,236"/>
+</map>

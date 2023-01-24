@@ -1,0 +1,5 @@
+<map id="c_FPPDiscovery::ProcessBlankPacket" name="c_FPPDiscovery::ProcessBlankPacket">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,212,63"/>
+<area shape="rect" id="node2" href="$classc___output_mgr.html#aec62685e8fb4eff73bfefd3ed5321b01" title="Get the address of the buffer into which the E1.31 handler will stuff data." alt="" coords="264,5,471,31"/>
+<area shape="rect" id="node3" href="$classc___output_mgr.html#a9aa129dd6077ad48f807aaab43f67c52" title="Get the size (in intensities) of the buffer into which the E1.31 handler will stuff data." alt="" coords="260,55,475,80"/>
+</map>
